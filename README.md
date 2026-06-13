@@ -31,15 +31,15 @@
 | Competition | Role | Year |
 |-------------|------|------|
 | ASME Student Design Competition EFX | Team Captain | 2026 |
-| NDBFC'19 RC Aircraft — GIKI | Team Captain | 2025 |
+| National DBF Competition NDBFC'19 — GIKI | Team Captain | 2025 |
 
 ---
 
 ## 💼 Experience
 | Role | Organization | Duration |
 |------|-------------|----------|
-| Aircraft Maintenance Trainee | Peshawar Flying Club | Sep–Oct 2025 |
-| Mechanical Design Intern | Al-Akbari Builders & Developers | Jul–Aug 2025 |
+| Aircraft Maintenance Trainee Engineer | Peshawar Flying Club | Sep–Oct 2025 |
+| Mechanical Design Intern | Al-Akbari Builders & Developers, Lahore | Jul–Aug 2025 |
 | NUVEX Instructor Fellow | RACE Pakistan | 2025–Present |
 | Campus Ambassador | North Tunisia SOLIDWORKS User Group | 2024–Present |
 
@@ -48,10 +48,8 @@
 ## 🎓 Education
 | Degree | Institution | Year |
 |--------|------------|------|
-| BE Mechanical Engineering | UET Peshawar | 2023–2027 |
-| Intermediate Pre-Engineering | Cadet College Razmak | 2021–2023 |
-
----
+| BE Mechanical Engineering | University of Engineering & Technology, Peshawar | 2023–2027 |
+| Intermediate Pre-Engineering | Cadet College Razmak, NWA | 2021–2023 |
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Gul-blue)](https://www.linkedin.com/in/ibrahimgul5314)
