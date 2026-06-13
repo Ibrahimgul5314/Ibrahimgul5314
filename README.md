@@ -15,15 +15,16 @@
 ---
 
 ## 🛠️ Technical Skills
-![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-Expert-red)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-Expert-blue)
-![PTC Creo](https://img.shields.io/badge/PTC%20Creo-Intermediate-green)
+![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-Advanced-red)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Intermediate-blue)
+![PTC Creo](https://img.shields.io/badge/PTC%20Creo-Advanced-green)
+![MS Office](https://img.shields.io/badge/MS%20Office-Intermediate-orange)
 
 - ✅ SOLIDWORKS | AutoCAD | PTC Creo Parametric
 - ✅ 3D & 2D CAD Modeling | Design Simulation
-- ✅ Aircraft Maintenance | MS Office
+- ✅ Aircraft Maintenance | Structural Design
+- ✅ Engineering Drawing | MS Office
 - ✅ Team Leadership | Problem Solving
-
 ---
 
 ## 🏆 Competitions & Achievements
