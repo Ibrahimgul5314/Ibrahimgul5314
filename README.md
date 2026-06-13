@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Ibrahim Gul! 👋
 
-<!--
-**Ibrahimgul5314/Ibrahimgul5314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✈️ Mechanical Engineering Student | UET Peshawar
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 6th Semester BE Mechanical Engineering — **UET Peshawar** (CGPA: 3.23/4.00)
+- ✈️ Aircraft Maintenance Trainee — **Peshawar Flying Club**
+- 🏗️ Mechanical Design Intern — **Al-Akbari Builders & Developers, Lahore**
+- 🏆 NUVEX Instructor Fellow — **RACE Pakistan**
+- 🌍 Campus Ambassador — **North Tunisia SOLIDWORKS User Group**
+- 🏅 CSWA Certified — **Dassault Systèmes**
+- 🤝 Student Member — **ASME**
+
+---
+
+## 🛠️ Technical Skills
+![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-Expert-red)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Expert-blue)
+![PTC Creo](https://img.shields.io/badge/PTC%20Creo-Intermediate-green)
+
+- ✅ SOLIDWORKS | AutoCAD | PTC Creo Parametric
+- ✅ 3D & 2D CAD Modeling | Design Simulation
+- ✅ Aircraft Maintenance | Structural Design
+- ✅ Engineering Drawing | MS Office
+- ✅ Team Leadership | Problem Solving
+
+---
+
+## 🏆 Competitions & Achievements
+| Competition | Role | Year |
+|-------------|------|------|
+| ASME Student Design Competition EFX | Team Captain | 2026 |
+| NDBFC'19 RC Aircraft — GIKI | Team Captain | 2025 |
+
+---
+
+## 💼 Experience
+| Role | Organization | Duration |
+|------|-------------|----------|
+| Aircraft Maintenance Trainee | Peshawar Flying Club | Sep–Oct 2025 |
+| Mechanical Design Intern | Al-Akbari Builders & Developers | Jul–Aug 2025 |
+| NUVEX Instructor Fellow | RACE Pakistan | 2025–Present |
+| Campus Ambassador | North Tunisia SOLIDWORKS User Group | 2024–Present |
+
+---
+
+## 🎓 Education
+| Degree | Institution | Year |
+|--------|------------|------|
+| BE Mechanical Engineering | UET Peshawar | 2023–2027 |
+| Intermediate Pre-Engineering | Cadet College Razmak | 2021–2023 |
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Gul-blue)](https://www.linkedin.com/in/ibrahimgul5314)
+[![Email](https://img.shields.io/badge/Email-ibrahimgul5314%40gmail.com-red)](mailto:ibrahimgul5314@gmail.com)
+
+---
+⭐ *"You can do anything. Just get up and do it. Follow your dreams."*
