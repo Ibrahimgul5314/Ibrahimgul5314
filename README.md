@@ -5,14 +5,13 @@
 ---
 
 ## 🚀 About Me
-- 🎓 6th Semester BE Mechanical Engineering — **UET Peshawar** (CGPA: 3.23/4.00)
-- ✈️ Aircraft Maintenance Trainee — **Peshawar Flying Club**
+- 🎓 Bachelor of Engineering in Mechanical Engineering — **University of Engineering & Technology, Peshawar** (CGPA: 3.23/4.00)
+- ✈️ Aircraft Maintenance Trainee Engineer — **Peshawar Flying Club**
 - 🏗️ Mechanical Design Intern — **Al-Akbari Builders & Developers, Lahore**
 - 🏆 NUVEX Instructor Fellow — **RACE Pakistan**
 - 🌍 Campus Ambassador — **North Tunisia SOLIDWORKS User Group**
 - 🏅 CSWA Certified — **Dassault Systèmes**
 - 🤝 Student Member — **ASME**
-
 ---
 
 ## 🛠️ Technical Skills
