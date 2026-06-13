@@ -1,4 +1,4 @@
-# Hi, I'm Ibrahim Gul! 👋
+# Hi, I'm Ibrahim Gul! 
 ### ✈️ Mechanical Engineering Student | UET Peshawar
 ---
 ## 🚀 About Me
