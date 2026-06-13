@@ -44,13 +44,11 @@
 | Campus Ambassador | North Tunisia SOLIDWORKS User Group | 2024–Present |
 
 ---
-
 ## 🎓 Education
 | Degree | Institution | Year |
 |--------|------------|------|
-| BE Mechanical Engineering | University of Engineering & Technology, Peshawar | 2023–2027 |
-| Intermediate Pre-Engineering | Cadet College Razmak, NWA | 2021–2023 |
-
+| Bachelor of Engineering in Mechanical Engineering | University of Engineering & Technology, Peshawar | 2023–2027 |
+| Intermediate in Pre-Engineering | Cadet College Razmak, NWA | 2021–2023 |
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Gul-blue)](https://www.linkedin.com/in/ibrahimgul5314)
 [![Email](https://img.shields.io/badge/Email-ibrahimgul5314%40gmail.com-red)](mailto:ibrahimgul5314@gmail.com)
