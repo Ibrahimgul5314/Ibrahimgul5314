@@ -22,8 +22,7 @@
 
 - ✅ SOLIDWORKS | AutoCAD | PTC Creo Parametric
 - ✅ 3D & 2D CAD Modeling | Design Simulation
-- ✅ Aircraft Maintenance | Structural Design
-- ✅ Engineering Drawing | MS Office
+- ✅ Aircraft Maintenance | MS Office
 - ✅ Team Leadership | Problem Solving
 
 ---
@@ -58,5 +57,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Gul-blue)](https://www.linkedin.com/in/ibrahimgul5314)
 [![Email](https://img.shields.io/badge/Email-ibrahimgul5314%40gmail.com-red)](mailto:ibrahimgul5314@gmail.com)
 
----
-⭐ *"You can do anything. Just get up and do it. Follow your dreams."*
